@@ -1,16 +1,25 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=d9bbff&height=300&text=YoungJun%20Ro&fontAlign=50&animation=fadeIn&fontAlignY=50)
 
-<!--
-**YoungJunRo/YoungJunRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ![tech](https://user-images.githubusercontent.com/83204523/116770790-197c1f00-aa81-11eb-90c4-143b40f995ad.png) Tech Stack 
 
-Here are some ideas to get you started:
+### Front-end
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### back-end
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=Delphi&logoColor=white"/>
+</p>
+
+### Script lang
+<p align="center">
+    <img src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=C&logoColor=white"/>
+</p>
+
+###
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungJunRo)](https://github.com/YoungjunRo)
