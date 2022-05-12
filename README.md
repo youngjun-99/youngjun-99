@@ -22,4 +22,5 @@
 </p>
 
 ###
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungJunRo)](https://github.com/YoungjunRo)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyj5979)](https://solved.ac/nyj5979)
