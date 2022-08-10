@@ -20,7 +20,3 @@
 <p align="center">
     <img src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=C&logoColor=white"/>
 </p>
-
-###
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyj5979)](https://solved.ac/nyj5979)
