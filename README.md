@@ -11,7 +11,7 @@ I am a Problem Solver with engineering. Now i'm interested in natural language p
 
 ### 💫 Working With
 - **TmaxAI** - National Language Processing Researcher *(2022.06 ~)*
-- **Dongguk Univ** - Student Researcher, front-end engineer *(2022.03 - 2022.05)*
+- **Dongguk Univ** - Student Researcher, Front-End engineer *(2022.03 - 2022.05)*
 - **더나눔협동조합** - Back-end engineer *(2018.06 - 2018.08)*
 
 ### ⚡Language 
