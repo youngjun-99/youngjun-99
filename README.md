@@ -3,14 +3,13 @@
 </div>
 <br/>
 
-## Hi There 👋  
-
-### Hello, I'm Youngjun.
+## Hi. I'm Youngjun 👋
 
 I am a Problem Solver with engineering. Now i'm interested in natural language processing.
 
 ### 💫 Working With
 - **TmaxAI** - National Language Processing Researcher *(2022.06 ~)*
+- **피프 Pay It Forward** - Technical PO, Back-end engineer *(2021.03 - 2023.01)*
 - **Dongguk Univ** - Student Researcher, Front-end engineer *(2022.03 - 2022.05)*
 - **더나눔협동조합** - Back-end engineer *(2018.06 - 2018.08)*
 
@@ -27,7 +26,8 @@ I am a Problem Solver with engineering. Now i'm interested in natural language p
   
 
 ### 🍀back-end
-- <img src="https://img.shields.io/badge/Flask-00AAE7?style=flat-square&logo=Flask&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-00AAE7?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-004A9D?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS(EC2)-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
