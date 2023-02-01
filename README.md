@@ -8,6 +8,7 @@
 I am a Problem Solver with engineering. Now i'm interested in natural language processing.
 
 ### 💫 Working With
+- **TmaxAI** - Team Leader *(2023.02 ~)*
 - **TmaxAI** - National Language Processing Researcher *(2022.06 ~)*
 - **피프 Pay It Forward** - Technical PO, Back-end engineer *(2021.03 - 2023.01)*
 - **Dongguk Univ** - Student Researcher, Front-end engineer *(2022.03 - 2022.05)*
