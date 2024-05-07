@@ -9,7 +9,7 @@ I am a Problem Solver with engineering. Now i'm interested in natural language p
 
 ### 💫 Working With
 - **TmaxAI** - National Language Processing Researcher *(2022.06 ~)*
-    - **TmaxAI** - Division Manager *(2023.11 ~)*
+    - **TmaxAI** - Division Manager *(2023.11 ~2024.04)*
     - **TmaxAI** - Team Manager *(2023.02 ~ 2023.11)*
 - **피프 Pay It Forward** - Technical PO, Back-end engineer *(2021.03 - 2023.01)*
 - **Dongguk Univ** - Student Researcher, Front-end engineer *(2022.03 - 2022.05)*
