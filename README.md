@@ -8,7 +8,8 @@
 I am a Problem Solver with engineering. Now i'm interested in natural language processing.
 
 ### 💫 Working With
-- **TmaxAI** - National Language Processing Researcher *(2022.06 ~)*
+- **토스증권(Toss Securities) - Server Developer *(2024.12 ~ )
+- **TmaxAI** - National Language Processing Researcher *(2022.06 ~ 2024.11)*
     - **TmaxAI** - Division Manager *(2023.11 ~ 2024.04)*
     - **TmaxAI** - Team Manager *(2023.02 ~ 2023.11)*
 - **피프 Pay It Forward** - Technical PO, Back-end engineer *(2021.03 - 2023.01)*
